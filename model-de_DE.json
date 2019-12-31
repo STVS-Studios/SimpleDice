@@ -1,0 +1,40 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "Würfel mit SimpelWürfel",
+                        "Würfel mit simple würfel",
+                        "Würfel mit simpel würfel",
+                        "Werfe einen Würfel mit SimpelWürfel",
+                        "Werfe einen Würfel mit simple würfel",
+                        "Werfe einen Würfel mit simpel würfel",
+                        "Werfe mit simpel würfel",
+                        "Werfe mit simple würfel",
+                        "Werfe mit SimpelWürfel",
+                        "Bitte simpel würfel um einen Wurf",
+                        "Bitte simple würfel um einen Würf",
+                        "Bitte SimpelWürfel um einen Wurf"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

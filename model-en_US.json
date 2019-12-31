@@ -1,0 +1,40 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "exit"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "exit"
+                    ]
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "Use SimpleDice to throw a dice",
+                        "Use simple dice to throw a dice",
+                        "Tell SimpleDice to throw a dice",
+                        "Tell simple dice to throw a dice",
+                        "Ask SimpleDice to throw a dice",
+                        "Ask simple dice to throw a dice",
+                        "Utilize SimpleDice to throw a dice",
+                        "Utilize simple dice to throw a dice"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
