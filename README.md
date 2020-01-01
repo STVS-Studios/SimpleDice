@@ -16,6 +16,6 @@ More than 100 individual people threw a dice with my skill (i still don't unders
 I'm still brainstorming on a update for it. At least it would be a bit more useful. (Let's hope for it.)
 
 ## What is in this repo?
-* In the "Lambda-function" directory, there is the code used in "SimpleDice". Anyone, who wants to know how this works can view and get inspired from it.
-* The "model-de_DE.json" is the interaction model for this skill.
+* In the "Lambda-function" directory, there is the code and dependencies used in "SimpleDice". Anyone, who wants to know how this skill works can view and get inspired from it.
+* I've included interaction models (in JSON format) for the following languages: (de_DE,en_US,en_UK,en_AU,en_CA,en_IN)
 
