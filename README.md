@@ -17,4 +17,3 @@ I'm still brainstorming on a update for it. At least it would be a bit more usef
 ## What is in this repo?
 * In the "Lambda-function" directory, there is the code and dependencies used in "SimpleDice". Anyone, who wants to know how this skill works can view and get inspired from it.
 * I've included interaction models (in JSON format) for the following languages: (de_DE, en_US, en_UK, en_AU, en_CA, en_IN)
-
