@@ -1,5 +1,4 @@
 # SimpleDice
-* Code will be transfered soon!
 
 This is my first Alexa skill, and thus an ironic (and basic) one.
 You can throw a basic six-sided dice with it.
