@@ -3,6 +3,9 @@
 This is my first Alexa skill, and thus an ironic (and basic) one.
 You can throw a basic six-sided dice with it.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F51BI4D)
+
+
 ## Why a skill, which wasn't needed?
 Back in 2017 i visited a workshop-event from Amazon. There i was introduced to the Alexa-Skills-Kit (ASK). I was then interested in building a skill for Alexa.
 Therefore a simple skill was created. I don't know why throwing a simple dice was the outcome of this but developing this helped me getting experience in
